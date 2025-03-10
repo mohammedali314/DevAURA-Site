@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A beautiful MERN stack website for a software company.",
   "main": "index.js",
+  "private": true,
+  "homepage": "/",
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

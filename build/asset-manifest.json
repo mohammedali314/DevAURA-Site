@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c58ab391.css",
+    "main.js": "/static/js/main.818afebe.js",
+    "static/media/Office.jpg": "/static/media/Office.75db88d850dceea89f04.jpg",
+    "static/media/laptop.jpg": "/static/media/laptop.e44baa912e9dc7430ed5.jpg",
+    "static/media/Programming.jpg": "/static/media/Programming.f13ad3903df0828a4f92.jpg",
+    "static/media/Logo.png": "/static/media/Logo.6def3afe9b5bc33103e7.png",
+    "index.html": "/index.html",
+    "main.c58ab391.css.map": "/static/css/main.c58ab391.css.map",
+    "main.818afebe.js.map": "/static/js/main.818afebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58ab391.css",
+    "static/js/main.818afebe.js"
+  ]
+}
